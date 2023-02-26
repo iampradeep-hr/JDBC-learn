@@ -1,4 +1,6 @@
 # JDBC-learn
+## Prerequisite 
+* Do not forget to download and add JDBC Driver to to your Project.
 Learning Java Database Connectivity 
 # Student Management System
 ## Creating a Connection
