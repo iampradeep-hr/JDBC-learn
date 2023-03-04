@@ -12,8 +12,8 @@ public class CP {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             //create connection
-            String user = "YOUR_MYSQL_USERNAME";
-            String password = "YOUR_MYSQL_PASSWORD";
+            String user = "root";
+            String password = "root@pradeep";
             String url = "jdbc:mysql://localhost:3306/student_management";
             //replace the url with your mysql port no and database name
 
